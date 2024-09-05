@@ -1,6 +1,5 @@
 # Stochastic-Processes
 
-This repository contains Python code that I wrote for a Stochastic Process course (PSTAT 160B) at UCSB. 
+This repository contains Python code for the Stochastic Process course (PSTAT 160B) at the (UCSB). The project focuses on simulating and analyzing various stochastic processes, including Poisson Processes, Continuous Markov Chain, Brownian Motion, Black-Scholes Model.
 
-It covers three parts: Poisson Process simulation, continuous time Markov Chain Simulation, and Brownian Motion simulation, and Black-Scholes pricing.
 
